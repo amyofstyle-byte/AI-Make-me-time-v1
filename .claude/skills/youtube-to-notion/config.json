@@ -1,0 +1,6 @@
+{
+  "database_id": "YOUR_NOTION_DATABASE_ID",
+  "database_url": "",
+  "categories": ["마케팅", "브랜딩", "AI/기술", "크리에이티브", "트렌드", "비즈니스", "기타"],
+  "summary_max_chars": 1000
+}
