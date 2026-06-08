@@ -1,5 +1,7 @@
 # Make Me Time
 
+> ☕ *Amy's been busy so you don't have to.*
+
 > AI-powered PKM workspace for non-coders
 > 비개발자를 위한 AI 작업 환경
 
@@ -116,7 +118,8 @@ AI-Make-me-time-v1/
 
 - [Claudesidian](https://github.com/heyitsnoah/claudesidian) by Noah Brier — PKM 아이디어 원형
 - [Karpathy on LLM Wiki](https://x.com/karpathy) — Wiki 복리 구조 영감
-- F&B 16년 + AI 실전 워크플로우
+- 원형 템플릿: do-better-workspace by hovoo (이림)
+- 강의용 재구성·운영: Amy
 
 ## License
 
@@ -124,5 +127,5 @@ MIT — 자유롭게 사용하고 수정하세요.
 
 ---
 
-**Made by hovoo (이림)**
-Make me time! — AI로 내 시간을 버는 워크스페이스
+**Make Me Time** — *Amy's been busy so you don't have to.* ☕
+AI로 내 시간을 버는 워크스페이스 · curated by Amy
