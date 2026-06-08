@@ -1,8 +1,8 @@
 ---
 client: 꿀꺽하우스 (부산 광안리 전통주 양조장 + 브루펍)
 persona: 최승하 (공동창업 / 전체 운영)
-data_source: ~/Projects/do-better-workspace-v2/50-resources/sample-data/kkulkkeok/
-template_source: ~/Projects/do-better-workspace-v2/00-system/01-templates/kkulkkeok/
+data_source: ~/Projects/AI-Make-me-time-v1/50-resources/sample-data/kkulkkeok/
+template_source: ~/Projects/AI-Make-me-time-v1/00-system/01-templates/kkulkkeok/
 created: 2026-06-06
 ---
 

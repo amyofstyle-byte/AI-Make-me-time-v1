@@ -1,6 +1,6 @@
 # Claude Code 실습 가이드
 
-> **준비물**: Claude Code 설치 완료, do-better-workspace 클론
+> **준비물**: Claude Code 설치 완료, AI-Make-me-time-v1 클론
 
 ---
 
@@ -24,11 +24,11 @@
 
 ## Part 1: 환경 준비
 
-### 1-1. do-better-workspace 클론
+### 1-1. AI-Make-me-time-v1 클론
 
 ```bash
-git clone https://github.com/Rhim80/do-better-workspace-v2.git
-cd do-better-workspace-v2
+git clone https://github.com/amyofstyle-byte/AI-Make-me-time-v1.git
+cd AI-Make-me-time-v1
 ```
 
 ### 1-2. Claude Code 실행

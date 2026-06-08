@@ -1,4 +1,4 @@
-# Do Better Workspace 가이드
+# Make Me Time 가이드
 
 > Claude Code + Johnny Decimal 기반 PKM 워크스페이스.
 > 이 파일은 Claude Code가 매 세션 시작 시 자동으로 읽는 프로젝트 지침입니다.

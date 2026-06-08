@@ -10,7 +10,7 @@ allowed-tools:
 
 # setup-workspace
 
-Do Better Workspace를 처음 clone한 사용자를 위한 초기 설정 스킬.
+Make Me Time를 처음 clone한 사용자를 위한 초기 설정 스킬.
 5단계: **루트 확인 → 프로필 → Python 환경 → 선택 도구 안내 → 첫 Daily Note**.
 
 ## 수행 작업
